@@ -1,0 +1,165 @@
+main{
+  width: 1000px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: 'Anek Devanagari', sans-serif;
+  font-weight: bold;  
+}
+img{
+  display: flex;;
+  width: 1000px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: -10px;
+  
+}
+
+.Anagin{
+  font-size: 60px;  
+}
+.parag{
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 30px;
+  width: 650px;
+  font-family: 'Anek Devanagari', sans-serif;
+  font-weight: bold;  
+}
+.paragsmaller{
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 20px;
+  width: 650px;
+  font-family: 'Anek Devanagari', sans-serif;
+  font-weight: bold;  
+ }
+.ulfirst{
+  position: relative;
+  left: 60px;
+}
+.h2background{
+  height: 200px;
+  width: 700px;
+  background: #444444;
+  margin-right: auto;
+  margin-left: auto;
+}
+h1{
+  font-family: 'Poller One', cursive;
+ text-align: left;
+   position: relative;
+  bottom: 150px;
+    left: 220px;
+  margin-bottom: -100px;
+}
+h2{
+    margin-right: auto;
+  margin-left: auto;
+  font-size: 30px;
+  width: 650px;
+  font-family:'Poller One', cursive ;
+  font-weight: normal;  
+  color: white;
+}
+
+h3{
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 35px;
+  width: 650px;
+  font-family: 'Anek Devanagari', sans-serif;
+  font-weight: 10000;  
+  text-transform: uppercase;
+}
+h4{
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 25px;
+  width: 650px;
+  font-family: 'Anek Devanagari', sans-serif;
+  font-weight: 600; 
+  color: grey;
+}
+p{
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 15px;
+  width: 650px;
+  font-family: 'Solway', serif;
+  font-weight: normal; 
+}
+
+.hfirst{
+  position: relative;
+  bottom: 140px
+}
+.hsecond{
+  position: relative;
+  bottom: 50px;  
+}
+.hthird{
+  position: relative;
+  bottom: 80px;   
+}
+.hfourth{
+  position: relative;
+  bottom: 150px;  
+}
+.pfirst{
+  bottom: 100px;
+  position: relative;
+  
+}
+.cursive{
+  bottom: 120px;
+  position: relative;  
+}
+.lisecond{
+  bottom: 100px;
+  position: relative;  
+ }
+.h5{
+  bottom: 100px;
+  position: relative;  
+}
+.cursive1{
+  bottom: 140px;
+  position: relative; }
+.h6{
+  position: relative;
+  bottom: 170px;
+}
+.h7{ 
+  position: relative;
+  bottom: 110px;
+}
+.ul2{
+position: relative;
+  bottom: 110px;
+}
+.cursive3{
+  position: relative;
+  bottom: 150px;
+}
+.ul3{
+  position: relative;
+  bottom: 150px;
+}
+.h9{
+   position: relative;
+  bottom: 160px;
+}
+.cursive4{
+  position: relative;
+  bottom: 200px;
+ }
+.ul4{
+  position: relative;
+  bottom: 200px;
+}
+.posledniuz{
+  weigth: 200px;
+  height: 8px;
+  background: black;
+  margin-top: -200px; 
+}
